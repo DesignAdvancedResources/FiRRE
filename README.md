@@ -1,11 +1,11 @@
-#FiRRE - Fire Intervention Rapid Response UAV
+# FiRRE - Fire Intervention Rapid Response UAV
 
-##main sponsor: ADXTUR
+## main sponsor: ADXTUR
 
-##promoters: DAR / ARTIVIS
+## promoters: DAR / ARTIVIS
 
 
-##Participants:
+## Participants:
 
 Pedro Ângelo;
 Yoad David Luxembourg;
