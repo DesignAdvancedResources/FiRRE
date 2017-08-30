@@ -51,6 +51,7 @@ LWIR Camera
    * [example code](https://github.com/groupgets/LeptonModule)
  * [3D-printed Lepton Breakout Case](https://www.thingiverse.com/thing:1563825)
  * [Raspberry Pi hookup guide](https://learn.sparkfun.com/tutorials/flir-lepton-hookup-guide)
+ * [DIY Themocam](https://github.com/maxritter/DIY-Thermocam)
 
 ### Using the example code and gstreamer to test video streaming
 
